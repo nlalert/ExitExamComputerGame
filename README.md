@@ -2,7 +2,9 @@
 
 เมื่อเปิด Unity ด้วย Project นี้ ให้ทำการเปิด Scene "MainMenu" ก่อนทำการ Simulate ทดลองเล่นใน Unity
 
-หากต้องการ Build ให้เพิ่ม Scene "MainMenu" แล้วตามด้วย "GameStage" ใน build settins
+หากต้องการ Build ให้เพิ่ม Scene "MainMenu" แล้วตามด้วย "GameStage" ใน Build Settings
+
+และมีเกมที่ Build สำเร็จแล้วโดยสามารถเข้าเล่นได้ผ่าน Build/FossilCrush.exe
 
 # References
 
